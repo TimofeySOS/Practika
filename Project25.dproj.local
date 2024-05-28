@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.097,=E:\Практика (Дворянова)\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.804,=E:\Практика (Дворянова)\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.707,E:\Практика (Дворянова)\Proga\DM.dfm=E:\Практика (Дворянова)\DM.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.145,E:\Практика (Дворянова)\DM.pas=C:\Users\student\Documents\Embarcadero\Studio\Projects\Unit16.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.296,E:\Практика (Дворянова)\DM.pas=E:\Практика (Дворянова)\Proga\DM.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.569,=G:\Практика (Дворянова)\Unit9.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.866,E:\Практика (Дворянова)\Project25.dproj=C:\Users\student\Documents\Embarcadero\Studio\Projects\Project25.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.560,=C:\Users\student\Documents\Embarcadero\Studio\Projects\Unit14.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.507,=C:\Users\student\Documents\Embarcadero\Studio\Projects\Unit14.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.350,=C:\Users\student\Documents\Embarcadero\Studio\Projects\Unit16.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.785,=G:\Практика (Дворянова)\Unit7.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.090,=E:\Практика (Дворянова)\Unit5.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.042,=C:\Users\student\Documents\Embarcadero\Studio\Projects\Unit14.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.505,=G:\Практика (Дворянова)\Unit8.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.145,E:\Практика (Дворянова)\DM.dfm=C:\Users\student\Documents\Embarcadero\Studio\Projects\Unit16.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.296,E:\Практика (Дворянова)\DM.dfm=E:\Практика (Дворянова)\Proga\DM.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.032,=E:\Практика (Дворянова)\Unit3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.639,=E:\Практика (Дворянова)\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.312,=C:\Users\student\Documents\Embarcadero\Studio\Projects\Unit15.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.204,=E:\Практика (Дворянова)\Unit4.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.455,=E:\Практика (Дворянова)\Main.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.141,E:\Практика (Дворянова)\Unit15.pas=C:\Users\student\Documents\Embarcadero\Studio\Projects\Unit15.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.324,E:\Практика (Дворянова)\Unit10.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.500,=E:\Практика (Дворянова)\Unit10.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.979,=G:\Практика (Дворянова)\Unit6.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.707,E:\Практика (Дворянова)\Proga\DM.pas=E:\Практика (Дворянова)\DM.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.141,E:\Практика (Дворянова)\Unit15.dfm=C:\Users\student\Documents\Embarcadero\Studio\Projects\Unit15.dfm</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="DM.pas"/>
+    <File Path="DM.dfm"/>
+    <File Path="Unit1.pas"/>
+    <File Path="Unit1.dfm"/>
+    <File Path="Unit15.pas"/>
+    <File Path="Unit15.dfm"/>
+    <File Path="Unit2.pas"/>
+    <File Path="Unit2.dfm"/>
+    <File Path="Unit3.pas"/>
+    <File Path="Unit3.dfm"/>
+    <File Path="Unit4.pas"/>
+    <File Path="Unit4.dfm"/>
+    <File Path="Unit5.pas"/>
+    <File Path="Unit5.dfm"/>
+    <File Path="Unit6.pas"/>
+    <File Path="Unit6.dfm"/>
+    <File Path="Unit7.pas"/>
+    <File Path="Unit7.dfm"/>
+    <File Path="Unit8.pas"/>
+    <File Path="Unit8.dfm"/>
+    <File Path="Unit9.pas"/>
+    <File Path="Unit9.dfm"/>
+    <File Path="Main.pas"/>
+    <File Path="Main.dfm"/>
+  </ProjectSortOrder>
+</BorlandProject>
